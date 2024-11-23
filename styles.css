@@ -1,2 +1,13 @@
+.holder{
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:center;
+}
 
+.item{
+	border:2px solid darkviolet;
+	background-color:hotpink;
+	width:100px;
+	height:100px;
+}
 /* Your CSS Code here. */
